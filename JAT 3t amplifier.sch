@@ -77,7 +77,7 @@ F 1 "2n2907" H 5241 5555 50  0000 L CNN
 F 2 "Package_TO_SOT_THT:TO-92" H 5250 5700 50  0001 C CNN
 F 3 "~" H 5050 5600 50  0001 C CNN
 	1    5050 5600
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:Q_NPN_EBC Q1
